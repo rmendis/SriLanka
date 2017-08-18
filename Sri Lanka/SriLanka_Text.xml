@@ -21,13 +21,7 @@
 
 		<!-- Civilization specific historical text. -->
 		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SRILANKA_CHAPTER_HISTORY_PARA_1" Language="en_US">
-			<Text>
-				Sri Lanka, officially the Democratic Socialist Republic of Sri Lanka, is an island country located southeast of the Republic of India and northeast of the Maldives. Its current existence is due to the merger of several empires present on the island under European colonial rule.
-				The island is home to many cultures, languages and races. The majority of the population is from the Sinhalese ethnicity, while a large minority of Tamils have also played an influential role in the island's history; Christians in both groups are recent converts who have kept the traditional culture. Moors, Burghers, Malays, Kaffirs, and the aboriginal Vedda are also established groups on the island.
-				Sri Lanka's documented history spans 3,000 years, with evidence of pre-historic human settlements dating back to at least 125,000 years. Its geographic location and deep harbours made it of great strategic importance from the time of the ancient Silk Road through to the modern Maritime Silk Road.
-				Sri Lanka has a rich cultural heritage. The first known Buddhist writings of Sri Lanka, the Pāli Canon, date back to the Fourth Buddhist council in 29 BC. 
-				Sri Lanka was known from the beginning of British colonial rule until 1972 as Ceylon. Its recent history has been marred by a thirty-year civil war which decisively ended when the Sri Lankan military defeated the Liberation Tigers of Tamil Eelam (LTTE) in 2009.
-			</Text>
+			<Text>Sri Lanka, officially the Democratic Socialist Republic of Sri Lanka, is an island country located southeast of the Republic of India and northeast of the Maldives. Its current existence is due to the merger of several empires present on the island under European colonial rule. The island is home to many cultures, languages and races. The majority of the population is from the Sinhalese ethnicity, while a large minority of Tamils have also played an influential role in the island's history; Christians in both groups are recent converts who have kept the traditional culture. Moors, Burghers, Malays, Kaffirs, and the aboriginal Vedda are also established groups on the island.</Text>
 		</Row>
 
 		<!-- Civlization Citizen Names -->
@@ -101,12 +95,12 @@
 
 		<!-- Leader Quotes -->
 		<Row Tag="LOC_LEADER_DUTUGAMUNU_QUOTE" Language="en_US">
-			<Text>Meow.</Text>
+			<Text>Pako!</Text>
 		</Row>
     
     <!-- Leader Dialog -->
     <Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_DUTUGAMUNU_ANY" Language="en_US">
-      <Text>Aybowan! I am King Dutugamunu.</Text>
+      <Text>Ayubowan! I am King Dutugamunu.</Text>
     </Row>
 
     <Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_DUTUGAMUNU_ANY" Language="en_US">
@@ -114,7 +108,7 @@
     </Row>
 
     <Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_DUTUGAMUNU_ANY" Language="en_US">
-      <Text>I dare you to threaten the lands of Sri Lanka.</Text>
+      <Text>It would be a mistake to underestimate me.</Text>
     </Row>
 	</LocalizedText>
 </GameData>
