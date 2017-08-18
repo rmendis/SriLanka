@@ -2,7 +2,7 @@
 <Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
-    <Name>Sri Lanka and Dutugamunu</Name>
+    <Name>Sri Lanka Civilization Pack</Name>
     <Guid>93543b5e-a266-4730-bd2d-d208627e7a4c</Guid>
     <ProjectGuid>a72dd913-f89c-446c-be7c-f7d2572762bc</ProjectGuid>
     <ModVersion>1</ModVersion>
@@ -15,7 +15,6 @@
     <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="Gameplay"><Criteria>LeaderCriteria</Criteria><File>SriLankans.xml</File><File>Dutugamunu.xml</File><File>SriLanka_UI.xml</File></UpdateDatabase><UpdateText id="Text"><Criteria>LeaderCriteria</Criteria><File>SriLanka_ConfigText.xml</File><File>SriLanka_Text.xml</File></UpdateText><UpdateIcons id="Icons"><Criteria>LeaderCriteria</Criteria><File>SriLanka_Icons.xml</File></UpdateIcons><UpdateArt id="Art"><Criteria>LeaderCriteria</Criteria><File>(Mod Art Dependency File)</File></UpdateArt></InGameActions>]]></InGameActionData>
     <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="Config"><File>SriLanka_Config.xml</File></UpdateDatabase><UpdateText id="ConfigText"><File>SriLanka_ConfigText.xml</File></UpdateText><UpdateIcons id="ConfigIcons"><File>SriLanka_Icons.xml</File></UpdateIcons><UpdateArt id="ConfigArt"><File>(Mod Art Dependency File)</File></UpdateArt></FrontEndActions>]]></FrontEndActionData>
     <ActionCriteriaData><![CDATA[<ActionCriteria><Criteria id="LeaderCriteria"><LeaderPlayable>StandardPlayers::LEADER_DUTUGAMUNU</LeaderPlayable></Criteria></ActionCriteria>]]></ActionCriteriaData>
-
     <AssemblyName>Sri Lanka</AssemblyName>
     <RootNamespace>Sri Lanka</RootNamespace>
     <Authors>blkbutterfly74</Authors>

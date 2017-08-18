@@ -2,7 +2,7 @@
 <GameData>
 	<Types>
 		<Row Type="CIVILIZATION_SRILANKA" Kind="KIND_CIVILIZATION" />
-		<Row Type="TRAIT_CIVILIZATION_BUILDING_LITTER_BOX" Kind="KIND_TRAIT" />
+		<Row Type="TRAIT_SRILANKA_TEMPLE_OF_THE_TOOTH" Kind="KIND_TRAIT" />
 	</Types>
 	
 	<Civilizations>
@@ -36,11 +36,11 @@
 	</CivilizationInfo>
 
 	<CivilizationTraits>
-		<Row CivilizationType="CIVILIZATION_SRILANKA" TraitType="TRAIT_CIVILIZATION_BUILDING_LITTER_BOX" />
+		<Row CivilizationType="CIVILIZATION_SRILANKA" TraitType="TRAIT_SRILANKA_TEMPLE_OF_THE_TOOTH" />
 	</CivilizationTraits>
 
 	<Traits>
-		<Row TraitType="TRAIT_CIVILIZATION_BUILDING_LITTER_BOX" Name="LOC_PLACEHOLDER" Description="LOC_PLACEHOLDER" />
+		<Row TraitType="TRAIT_SRILANKA_TEMPLE_OF_THE_TOOTH" Name="Temple of the Tooth" Description="Sri Lanka and civilizations that are friends of Sri Lanka get a relic on discovery of a natural wonder. Holy sites with relics can perform The Perahera" />
 	</Traits>
 
 	<CityNames>
