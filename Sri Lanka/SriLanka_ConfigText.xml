@@ -2,19 +2,19 @@
 <GameData>
 	<LocalizedText>
 		<Row Tag="LOC_CIVILIZATION_SRILANKA_NAME" Language="en_US">
-			<Text>The Felines</Text>
+			<Text>Sri Lanka</Text>
 		</Row>
 		
 		<Row Tag="LOC_CIVILIZATION_SRILANKA_DESCRIPTION" Language="en_US">
-			<Text>The Majestic Felines</Text>
+			<Text>The Sri Lankans</Text>
 		</Row>
 
 		<Row Tag="LOC_CIVILIZATION_SRILANKA_ADJECTIVE" Language="en_US">
-			<Text>Feline</Text>
+			<Text>Sri Lankan</Text>
 		</Row>
 		
 		<Row Tag="LOC_LEADER_DUTUGAMUNU_NAME" Language="en_US">
-			<Text>Jasper Kitty</Text>
+			<Text>Dutugamunu</Text>
 		</Row>
 
 		<Row Tag="LOC_TRAIT_CIVILIZATION_SRILANKA_NAME" Language="en_US">
@@ -25,10 +25,10 @@
 		</Row>
 		
 		<Row Tag="LOC_TRAIT_LEADER_DUTUGAMUNU_NAME" Language="en_US">
-			<Text>Kitty Claws</Text>
+			<Text>Ten Great Warriors</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_DUTUGAMUNU_DESCRIPTION" Language="en_US">
-			<Text>So sharp!</Text>
+			<Text>Receive 10 free yodhaya units when a civilization threatens war. Acquisition of religious buildings mitigates war weariness and provides amenities for 10 turns.</Text>
 		</Row>
 
 		<Row Tag="LOC_BUILDING_LITTER_BOX_NAME" Language="en_US">

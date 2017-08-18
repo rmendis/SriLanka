@@ -8,81 +8,87 @@
 
 		<!-- Leader specific pedia text. -->
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DUTUGAMUNU_CHAPTER_CAPSULE_BODY" Language="en_US">
-			<Text>Jasper kitty is a charismatic and typically friendly feline.  He prefers diplomatic trades that involve food.</Text>
+			<Text>Dutugamunu is a charismatic and brave leader.  He will valiantly defend his territory</Text>
 		</Row>
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DUTUGAMUNU_CHAPTER_DETAILED_BODY" Language="en_US">
-			<Text>Jasper kitty likes to hide in his fort and attack when others least expect it.  He is particularly skilled at tripping people.</Text>
+			<Text>Dutugamunu will recruit Sri Lankans to his cause to combat invaders. </Text>
 		</Row>
 		
 		<!-- Leader specific historical text. -->
 		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DUTUGAMUNU_CHAPTER_HISTORY_PARA_1" Language="en_US">
-			<Text>Born in 2010, Jasper kitty grew to power at a young age...</Text>
+			<Text>Dutugamunu also known as Dutthagamani and Gāmaṇī Abhaya ("fearless Gamini"), was a Sinhalese king of Sri Lanka[1] who reigned from 161 BC to 137 BC. He is renowned for defeating and overthrowing Elara, the usurping Tamil prince from the Chola Kingdom, who had invaded the Kingdom of Rajarata in 205 BC. Dutugamunu also expanded and beautified the city of Anuradhapura and projected the power of his native Rajarata region across the island of Sri Lanka.</Text>
 		</Row>
 
 		<!-- Civilization specific historical text. -->
 		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SRILANKA_CHAPTER_HISTORY_PARA_1" Language="en_US">
-			<Text>The felines have a rich history, but are too lazy to write about it.</Text>
+			<Text>
+				Sri Lanka, officially the Democratic Socialist Republic of Sri Lanka, is an island country located southeast of the Republic of India and northeast of the Maldives. Its current existence is due to the merger of several empires present on the island under European colonial rule.
+				The island is home to many cultures, languages and races. The majority of the population is from the Sinhalese ethnicity, while a large minority of Tamils have also played an influential role in the island's history; Christians in both groups are recent converts who have kept the traditional culture. Moors, Burghers, Malays, Kaffirs, and the aboriginal Vedda are also established groups on the island.
+				Sri Lanka's documented history spans 3,000 years, with evidence of pre-historic human settlements dating back to at least 125,000 years. Its geographic location and deep harbours made it of great strategic importance from the time of the ancient Silk Road through to the modern Maritime Silk Road.
+				Sri Lanka has a rich cultural heritage. The first known Buddhist writings of Sri Lanka, the Pāli Canon, date back to the Fourth Buddhist council in 29 BC. 
+				Sri Lanka was known from the beginning of British colonial rule until 1972 as Ceylon. Its recent history has been marred by a thirty-year civil war which decisively ended when the Sri Lankan military defeated the Liberation Tigers of Tamil Eelam (LTTE) in 2009.
+			</Text>
 		</Row>
 
 		<!-- Civlization Citizen Names -->
 		<Row Tag="LOC_CITIZEN_SRILANKA_MALE_1" Language="en_US">
-			<Text>Mittens</Text>
+			<Text>Maithri</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SRILANKA_MALE_2" Language="en_US">
-			<Text>Snookums</Text>
+			<Text>Ranil</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SRILANKA_MALE_3" Language="en_US">
-			<Text>Patches</Text>
+			<Text>Mangala</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SRILANKA_MALE_4" Language="en_US">
-			<Text>Tom</Text>
+			<Text>Rajiv</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SRILANKA_FEMALE_1" Language="en_US">
-			<Text>Miss Kitty</Text>
+			<Text>Savithri</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SRILANKA_FEMALE_2" Language="en_US">
-			<Text>Callie</Text>
+			<Text>Renuka</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SRILANKA_FEMALE_3" Language="en_US">
-			<Text>Tabby</Text>
+			<Text>Shehara</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SRILANKA_FEMALE_4" Language="en_US">
-			<Text>Whiskers</Text>
+			<Text>Niluki</Text>
 		</Row>
 		<Row Tag="LOC_CITIZEN_SRILANKA_FEMALE_5" Language="en_US">
-			<Text>Sally Soft Paws</Text>
+			<Text>Ruwanthi</Text>
 		</Row>
 
 		<!-- Civilization City Names-->
 		<Row Tag="LOC_CIVLIZATION_SRILANKA_CITY_1" Language="en_US">
-			<Text>Pawtimore</Text>
+			<Text>Anuradhapura</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_SRILANKA_CITY_2" Language="en_US">
-			<Text>City</Text>
+			<Text>Polonnaruwa</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_SRILANKA_CITY_3" Language="en_US">
-			<Text>City</Text>
+			<Text>Sigiriya</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_SRILANKA_CITY_4" Language="en_US">
-			<Text>City</Text>
+			<Text>Ruhuna</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_SRILANKA_CITY_5" Language="en_US">
-			<Text>City</Text>
+			<Text>Dambadeniya</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_SRILANKA_CITY_6" Language="en_US">
-			<Text>City</Text>
+			<Text>Yapahuwa</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_SRILANKA_CITY_7" Language="en_US">
-			<Text>City</Text>
+			<Text>Kurunegala</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_SRILANKA_CITY_8" Language="en_US">
-			<Text>City</Text>
+			<Text>Dedigama</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_SRILANKA_CITY_9" Language="en_US">
-			<Text>City</Text>
+			<Text>Gampola</Text>
 		</Row>
 		<Row Tag="LOC_CIVLIZATION_SRILANKA_CITY_10" Language="en_US">
-			<Text>City</Text>
+			<Text>Kelaniya</Text>
 		</Row>
 
 		<!--Civilization Factoids -->
@@ -100,15 +106,15 @@
     
     <!-- Leader Dialog -->
     <Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_DUTUGAMUNU_ANY" Language="en_US">
-      <Text>Mrow! I am the mighty Jasper Kitty.  Pet me.</Text>
+      <Text>Aybowan! I am King Dutugamunu.</Text>
     </Row>
 
     <Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_DUTUGAMUNU_ANY" Language="en_US">
-      <Text>I haz a box.  Wanna see?</Text>
+      <Text>Ayubowan! Would you like to taste Sri Lankan hospitality?</Text>
     </Row>
 
     <Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_DUTUGAMUNU_ANY" Language="en_US">
-      <Text>Let me rub my face on all of your stuff so that it will be mine.</Text>
+      <Text>I dare you to threaten the lands of Sri Lanka.</Text>
     </Row>
 	</LocalizedText>
 </GameData>
