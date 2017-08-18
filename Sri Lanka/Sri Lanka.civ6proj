@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>Example - New Leader and Civilization</Name>
+    <Guid>93543b5e-a266-4730-bd2d-d208627e7a4c</Guid>
+    <ProjectGuid>a72dd913-f89c-446c-be7c-f7d2572762bc</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>This example mod demonstrates how to add a new leader and civilization to the game.</Teaser>
+    <Description>This example mod demonstrates how to add a new leader and civilization to the game.</Description>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="Gameplay"><Criteria>LeaderCriteria</Criteria><File>SriLankans.xml</File><File>Dutugamunu.xml</File><File>SriLanka_UI.xml</File></UpdateDatabase><UpdateText id="Text"><Criteria>LeaderCriteria</Criteria><File>SriLanka_ConfigText.xml</File><File>SriLanka_Text.xml</File></UpdateText><UpdateIcons id="Icons"><Criteria>LeaderCriteria</Criteria><File>SriLanka_Icons.xml</File></UpdateIcons><UpdateArt id="Art"><Criteria>LeaderCriteria</Criteria><File>(Mod Art Dependency File)</File></UpdateArt></InGameActions>]]></InGameActionData>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="Config"><File>SriLanka_Config.xml</File></UpdateDatabase><UpdateText id="ConfigText"><File>SriLanka_ConfigText.xml</File></UpdateText><UpdateIcons id="ConfigIcons"><File>SriLanka_Icons.xml</File></UpdateIcons><UpdateArt id="ConfigArt"><File>(Mod Art Dependency File)</File></UpdateArt></FrontEndActions>]]></FrontEndActionData>
+    <ActionCriteriaData><![CDATA[<ActionCriteria><Criteria id="LeaderCriteria"><LeaderPlayable>StandardPlayers::LEADER_JASPER_KITTY</LeaderPlayable></Criteria></ActionCriteria>]]></ActionCriteriaData>
+    <AssemblyName>Sri Lanka</AssemblyName>
+    <RootNamespace>Sri Lanka</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Artdefs\" />
+    <Folder Include="Textures\" />
+    <Folder Include="XLPs\" />
+    <Content Include="SriLanka_Config.xml" />
+    <Content Include="SriLanka_ConfigText.xml" />
+    <Content Include="SriLankans.xml" />
+    <Content Include="SriLanka_Icons.xml" />
+    <Content Include="Dutugamunu.xml" />
+    <Content Include="SriLanka_UI.xml" />
+    <Content Include="SriLanka_Text.xml" />
+    <None Include="Textures\FALLBACK_NEUTRAL_DUTUGAMUNU.dds" />
+    <None Include="Textures\FALLBACK_NEUTRAL_DUTUGAMUNU.tex" />
+    <None Include="Textures\LEADER_DUTUGAMUNU_NEUTRAL.dds" />
+    <None Include="Textures\LEADER_DUTUGAMUNU_NEUTRAL.tex" />
+    <None Include="ArtDefs\FallbackLeaders.artdef" />
+    <None Include="XLPs\LeaderFallbacks.xlp" />
+    <None Include="XLPs\UILeaders.xlp" />
+    <None Include="Mod.Art.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>
